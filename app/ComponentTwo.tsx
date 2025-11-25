@@ -1,5 +1,5 @@
 const ComponentTwo = () => {
-  return <div>ComponentTwo</div>;
+  return <div>Bye</div>;
 };
 
 export default ComponentTwo;
